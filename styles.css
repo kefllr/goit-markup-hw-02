@@ -85,7 +85,7 @@ button:focus{
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: #2e2f42 ;
+    color: #2e2f42;
 }
 .team{
     background-color: #FFFFFF ;
@@ -126,7 +126,7 @@ button:focus{
 .text-foot{
     color: #F4F4FD;
 }
-.link-2{
+.link-two{
     color: #4d5ae5 ;
     font-weight: 700;
     font-size: 18px;
@@ -135,6 +135,9 @@ button:focus{
     text-transform: uppercase;
     line-height: 1.17;
 }
-.logo-name-2{
+.logo-name-two{
     color: #f4f4fd;
+}
+.adr{
+    font-style: normal;
 }
